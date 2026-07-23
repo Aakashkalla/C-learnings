@@ -1,0 +1,23 @@
+# Compiled binaries
+*.out
+*.exe
+*.o
+*.obj
+
+# Build directories
+build/
+bin/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Zed
+.zed/
+
+# Vim
+*.swp
+
+.clangd
