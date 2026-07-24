@@ -13,10 +13,10 @@ This repository contains my journey of learning C.
 - [x] Chapter 2
 - [x] Chapter 3
 - [x] Chapter 4
-- [ ] Chapter 5
+- [x] Chapter 5
 
 ## Projects
 
-- Student Information(exerciseOne.c)
-- Smart Calculator (coming soon)
+- [Student Information](Day-1/exerciseOne.c)
+- [Smart Calculator](Projects/smartcalc.c)
 - Number Guessing Game (coming soon)
