@@ -18,5 +18,5 @@ This repository contains my journey of learning C.
 ## Projects
 
 - [Student Information](Day-1/exerciseOne.c)
-- [Smart Calculator](Projects/smartcalc.c)
-- Number Guessing Game (coming soon)
+- [Smart Calculator](Projects/Smart-Calc/smartcalc.c)
+- [Number Guessing Game](Projects/Number-Guessing-Game/numberGuessing.c)
