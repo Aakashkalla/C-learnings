@@ -15,6 +15,7 @@ This repository contains my journey of learning C.
 - [x] Chapter 4
 - [x] Chapter 5
 - [x] Chapter 6
+- [x] Chapter 7
 
 ## Projects
 
